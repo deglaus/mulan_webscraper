@@ -1,0 +1,20 @@
+.instruction {
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  font-size: calc(11px + 1vmin);
+  color: white;
+}
+
+.separator{
+    margin: 30px;
+    padding: 5px;
+}
+
+.gif {
+  border: solid grey 3px;
+  width: 400px;
+  height: 250px;
+}

@@ -1,0 +1,31 @@
+.Selection {
+  height: 100px;
+}
+
+.Menu {
+  background-color: #554c65;
+  text-align: center;
+  color: white;
+  display: grid;
+  margin: auto 10px;
+  /* FIXME: Change according to amount of items */
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 20px;
+  /* Gets rid of the bullet points */
+  list-style: none;
+  justify-content: center;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  padding: 20px;
+}
+
+/* GLOBAL STYLES FOR LINKS */
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: black;
+}

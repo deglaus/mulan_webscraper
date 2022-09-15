@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  font-size: calc(19px + 2vmin);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.paragraph {
+  background-color: #4b415e;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(12px + 2vmin);
+  color: white;
+}
+
+.welcome-logo {
+  height: 7%;
+  width: 7%;
+}

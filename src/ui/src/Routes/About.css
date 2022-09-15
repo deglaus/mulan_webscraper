@@ -1,0 +1,40 @@
+.About {
+  text-align: left;
+}
+
+.About-content {
+  min-height: 50vh;
+  margin-left: 30px;
+  margin-right: auto;
+  display: inline-block;
+  flex-direction: column;
+  align-items: left;
+  font-size: calc(14px + 2vmin);
+  color: white;
+}
+
+.About-paragraph {
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(8px + 2vmin);
+  color: white;
+  word-wrap: break-word;
+  width: 500px;
+}
+
+.About-header {
+  min-height: 1vh;
+  display: flex;
+  font-weight: bold;
+  flex-direction: column;
+  font-size: calc(18px + 2vmin);
+  color: white;
+}
+
+.About-logo {
+  float: right;
+  height: 45%;
+  width: 45%;
+  margin: right 30px;
+}

@@ -1,0 +1,28 @@
+.content {
+  text-align: center;
+}
+
+.Cov-header {
+  min-height: 1vh;
+  display: flex;
+  font-weight: bold;
+  flex-direction: column;
+  font-size: calc(18px + 2vmin);
+  color: white;
+}
+
+.logos {
+  background-color: #7b718c;
+  border-radius: 10px;
+}
+
+.square-store-logo {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+}
+.rectangular-store-logo {
+  margin: 20px;
+  width: 300px;
+  height: 150px;
+}

@@ -1,0 +1,12 @@
+# Installation script requirement file - Stores a list of every used dependency for python-scraper
+# How to use : 'pip install -r requirements.txt'
+# Syntax : <PackageName>
+
+Sphinx
+Selenium
+beautifulsoup4
+webdriver-manager 
+lxml
+mysql-connector-python 
+autodocsumm
+
