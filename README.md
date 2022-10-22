@@ -4,7 +4,7 @@
 
 ## Group: Mulan
 
-Contributors: [chrbjo](https://github.com/chrbjo), [choc0572](https://github.com/choc0572), (deglaus)[https://github.com/deglaus], (Boxman1337)[https://github.com/Boxman1337], (TofteT)[https://github.com/TofteT] and (CasperBrandt)[https://github.com/CasperBrandt].
+Contributors: [chrbjo](https://github.com/chrbjo), [choc0572](https://github.com/choc0572), [deglaus](https://github.com/deglaus), [Boxman1337](https://github.com/Boxman1337), [TofteT](https://github.com/TofteT) and [CasperBrandt](https://github.com/CasperBrandt).
 
 Special acknowledgments:
 chrbjo - A major leading contributor to setting up the database and integrating it into the greater architecture. He lso managed to fetch data from some of the more challenging websites.
