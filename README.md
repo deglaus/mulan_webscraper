@@ -4,7 +4,11 @@
 
 ## Group: Mulan
 
-Members: Christoffer Björklund, William Borg, Casper Brandt, Niklas Gotowiec, Axel Nilsson, Christian Ocklind, Johan Söderström, Tofte Tjörneryd
+Contributors: [chrbjo](https://github.com/chrbjo), [choc0572](https://github.com/choc0572), (deglaus)[https://github.com/deglaus], (Boxman1337)[https://github.com/Boxman1337], (TofteT)[https://github.com/TofteT] and (CasperBrandt)[https://github.com/CasperBrandt].
+
+Special acknowledgments:
+chrbjo - A major leading contributor to setting up the database and integrating it into the greater architecture. He lso managed to fetch data from some of the more challenging websites.
+choc0572 - Designed the entire UI, and aided me (deglaus) a lot in managing to have our API be usable in the frontend. He mastered REACT for this project and managed to present our work elegantly.
 
 ## Description
 
