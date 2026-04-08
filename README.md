@@ -2,6 +2,13 @@
 
 ![logo](./src/ui/src/assets/logo-small.png)
 
+<a href="https://www.star-history.com/?repos=deglaus%2Fmulan_webscraper&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=deglaus/mulan_webscraper&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=deglaus/mulan_webscraper&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=deglaus/mulan_webscraper&type=date&legend=top-left" />
+ </picture>
+</a>
 ## Group: Mulan
 
 Contributors: [chrbjo](https://github.com/chrbjo), [choc0572](https://github.com/choc0572), [deglaus](https://github.com/deglaus), [Boxman1337](https://github.com/Boxman1337), [TofteT](https://github.com/TofteT) and [CasperBrandt](https://github.com/CasperBrandt).
