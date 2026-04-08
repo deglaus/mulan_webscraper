@@ -9,6 +9,7 @@
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=deglaus/mulan_webscraper&type=date&legend=top-left" />
  </picture>
 </a>
+
 ## Group: Mulan
 
 Contributors: [chrbjo](https://github.com/chrbjo), [choc0572](https://github.com/choc0572), [deglaus](https://github.com/deglaus), [Boxman1337](https://github.com/Boxman1337), [TofteT](https://github.com/TofteT) and [CasperBrandt](https://github.com/CasperBrandt).
